@@ -8,12 +8,11 @@ I am a software engineer with over 4 years of professional experience building s
 
 ### 🚀 What I’m Doing Now
 *   **Master’s Studies:** Deepening my expertise in AI systems and software architecture.
-*   **Localization:** Actively mastering German (*Perfekt* and *Präteritum* down, many more to go) to integrate into the local tech ecosystem.
 *   **Automation:** Refining my news aggregation workflows and productivity tools.
 
 ### 🛠 Tech Stack & Tools
 *   **Languages:** Python, JavaScript/TypeScript, Go, SQL.
-*   **Backend:** Node.js, Express, FastAPI, Odoo/ERP.
+*   **Backend:** Nest.js, Express, FastAPI, Odoo/ERP.
 *   **Infrastructure:** GCP (Compute Engine, Caddy), Docker, CI/CD.
 *   **Specialties:** Self-referential JSON schemas, Recursive data structures, API Orchestration.
 
@@ -21,17 +20,16 @@ I am a software engineer with over 4 years of professional experience building s
 
 ### 📊 Featured Projects
 
-#### [QI Mini Tool](https://github.com/yourusername/qi-mini-tool)
-A specialized utility designed for [insert 1-sentence purpose, e.g., rapid data processing / quality inspection]. 
+#### [QI Mini Tool](https://quality-tools.dev/)
+A specialized utility designed for interactive Focusing matri, Parto charts etc. 
 *   *Key Tech:* Nextjs, Supabase, Vercel]
-*   *Impact:* Optimized [specific task] by [percentage/time], showcasing a focus on developer productivity and precise engineering.
 
-#### [Ethiopia Daily News Bot](https://github.com/yourusername/ethiopia-news-bot)
+#### [Ethiopia Daily News Bot](https://github.com/primeKal/ai_news)
 An automated news aggregation engine for Telegram. 
 *   *Key Tech:* Python, Scrapy/BeautifulSoup, Telegram API, gemini API.
 *   *Impact:* Fully automated the lifecycle of news collection and dissemination, handling real-time data with minimal overhead.
 
-#### [Recursive Menu Management](https://github.com/yourusername/recursive-menu)
+#### [Recursive Menu Management](https://github.com/primeKal/mms_project)
 A full-stack solution for complex, infinitely nested hierarchies.
 *   *Key Tech:* JSON Schema, Nest.js, Sequlize/TypeOrm, Passport, Postgres.
 *   *Impact:* Designed a self-referential schema that manages complex relational data in real-time.
